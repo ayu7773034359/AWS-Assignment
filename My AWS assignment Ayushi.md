@@ -289,7 +289,7 @@ Serverless computing is a cloud computing execution model where the cloud provid
 
 **Answer:**
 
-1. **Created an S3 bucket** named `Ayushi-Tiwari-log`.
+1. **Created an S3 bucket** named `Ayushi-Jain-log`.
 2. **Created a Lambda function** named `LogS3UploadInfo`.
 3. **Gave necessary permissions** to Lambda for S3 and CloudWatch.
 4. **Set up S3 as a trigger** for the Lambda function (event type: `ObjectCreated`).
